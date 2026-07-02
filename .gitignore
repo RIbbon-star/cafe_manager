@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+.env
+
+# 프론트엔드 (React, 이후 단계)
+node_modules/
+
+study/

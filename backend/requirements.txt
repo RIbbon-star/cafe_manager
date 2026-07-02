@@ -1,0 +1,13 @@
+# 수집
+requests
+python-dotenv
+
+# 백엔드 서버 (5번 단계에서 사용 시작)
+fastapi
+uvicorn[standard]
+
+# LLM 파이프라인 (3~4번 단계에서 사용 시작)
+langchain
+
+# DB (5번 단계에서 사용 시작)
+sqlalchemy
